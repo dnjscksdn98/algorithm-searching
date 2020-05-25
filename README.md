@@ -1,2 +1,5 @@
-# algorithm-searching
-&lt;Python Algorithm Searching>
+### 알로기즘 chap 02
+
+**1) 순차 탐색**
+
+**2) 이진 탐색**
